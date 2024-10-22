@@ -20,11 +20,11 @@ blah blah blah
 
 ## Now let's work on links
 
-[I like youtube](http://www.youtube.com)
+[I like youtube!](http://www.youtube.com)
 
 ## Now let's work on pictures
 
-![here's a picture of bibble](bibble.jpeg)
+![Here's a picture of bibble](bibble.jpeg)
 
 ## Now let's do tables
 
@@ -35,6 +35,17 @@ These are my favorite cats
 | Garfield | Likes Lasagna |
 | Tom      | Chases Jerry  |
 | Meowth   | Pokemon       |
+
+
+## Now we'll do equations
+
+$y = mx + b$
+
+$f(x) = x^2$
+
+$f(x) = \frac{3}{4}$
+
+
 
 
 
